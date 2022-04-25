@@ -28,4 +28,4 @@ For Vine members there was 47.1% rate of 5-star reviews and 31.7% of reviews wer
 Based on the findings above, it appears that the Vine program does in fact lead to a bias toward 5-star reviews. 
 There was a significantly higher rate of 5-star reviews left through the Vine program.
 This analysis only investigated the rate of 5-star reviews, this is just one of the ways review bias could be discovered.
-Additional analysis could be used on all reviews from 1 to 5 and investigate the mean as well as create visualizations of all reviews to further investigate the nature of this bias.
+Additional analyses could be used on all reviews from 1 to 5 and investigate the means as well as create visualizations of all reviews to further investigate the nature of this bias.
